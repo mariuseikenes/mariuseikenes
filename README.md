@@ -8,6 +8,8 @@
 I'm a 20 year old web developer from Ørsta, Norway. At the moment I'm taking my Bachelor in Computer Science at NTNU Trondheim.
 I mostly do full-stack web development using Tanstack Start.
 
+Member of TIHLDEs Index, my student organizations development group.
+
 <hr />
 
 ### Projects
