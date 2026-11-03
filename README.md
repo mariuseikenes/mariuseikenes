@@ -14,6 +14,9 @@ Member of TIHLDEs Index, my student organizations development group.
 
 ### Projects
 
+🎙️ [PodReel](https://podreel.app)
+> PodReel is an AI-based podcast clipping tool. Using AssemblyAI for transcriptions, it analyzes the script to find funny, interesting, educational or other clippable moments and automatically spits out complete, ready-to-post clips. Using a modified version of [Junhua Liao's LR-ASD](https://github.com/Junhua-Liao/LR-ASD), speaker detection ensures the active speaker is the focus of every clip. The [modified PodReel ASD repo](https://github.com/mariuseikenes/PodReel_ASD) uses a Python FastAPI server and is containerized in a [Docker image](https://hub.docker.com/r/mariuseikenes/podreel_asd). PodReel uses FFMPEG for video handling and Remotion for editing. 
+
 ♠️ [Røkkjar](https://rokkjar.no)
 >  Røkkjar is a lesser known Nordic card game, especially popular in Stryn, Norway. After my brother played at the yearly christmas tournament, we realized no online version exists, so if you want to practice you had to play in-person. Over the new years we created Røkkjar online. I mostly did the frontend, REST API, rating-system and auth while my brother did most of the game logic. The tech stack features Vite, React, TypeScript, Tanstack Router, tRPC, and Postgres.  
 
